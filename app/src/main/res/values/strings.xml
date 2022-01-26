@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TaskList</string>
+    <string name="tab_text_1">tasks</string>
+    <string name="tab_text_2">Add tasks</string>
+    <string name="tab_text_3">Calendar</string>
+    <string name="fragment_1">Fragment 1</string>
+    <string name="fragment_3">Fragment 3</string>
+    <string name="fragment_2">fragment 2</string>
+    <string name="task">Task</string>
+    <string name="task_form">Task Form</string>
+    <string name="date">Date</string>
+    <string name="enter_date">Enter à date</string>
+    <string name="enter_your_task">enter your task</string>
+    <string name="state">state</string>
+    <string name="click_to_submit">Click To Submit</string>
+</resources>
